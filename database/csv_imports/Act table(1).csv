@@ -1,0 +1,25 @@
+ActID,ActName,ActBio,GigRateperhr
+1,"The Beatles",NULL,1000000.00
+2,"The Rolling Stones",NULL,200000.00
+3,"The Beach Boys",NULL,NULL
+4,Queen,NULL,NULL
+5,"Led Zeppelin",NULL,NULL
+6,"Pink Floyd",NULL,NULL
+7,"Duran Duran",NULL,NULL
+8,"The Police",NULL,NULL
+9,U2,NULL,NULL
+10,Nirvana,NULL,NULL
+11,R.E.M,NULL,NULL
+12,"Pearl Jam",NULL,NULL
+13,Coldplay,NULL,NULL
+14,"Linkin Park",NULL,NULL
+15,"Green Day",NULL,NULL
+16,"Imagine Dragons",NULL,NULL
+17,"Twenty One Pilots",NULL,NULL
+18,"Arctic Monkeys",NULL,NULL
+19,"Billie Eilish",NULL,NULL
+20,"Tame Impala",NULL,NULL
+21,"The Weeknd",NULL,NULL
+22,"Neil Young",NULL,NULL
+23,"Bob Dylan",NULL,NULL
+24,"Lindsey Buckingham (solo)",NULL,NULL

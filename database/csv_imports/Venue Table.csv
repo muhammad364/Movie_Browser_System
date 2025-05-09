@@ -1,0 +1,12 @@
+VenueID,VenueName,VenueOwner,VenuePostcode,MaxGigCost,MaxGigLength(wholehours)
+1,"O3 Arena","William Andrews","BT34 7AS",2000.00,NULL
+2,"The Railway Arms","Nita Patel","BS7 8EY",500.00,NULL
+3,"We Are Jazz","Ian Stewart",NW17EJ,5000.00,NULL
+4,"The Harmony Hall","Edward Harmon","WC2N 5DU",7000.00,NULL
+5,"Groove Garden","Lily Green","BS1 5UH",800.00,NULL
+6,"The Beat Basement","Max Turner","M1 1AE",2500.00,NULL
+7,"Melody Mansion","Fiona Macleod","EH1 2NG",3000.00,NULL
+8,"Sonic Santuary","Jamal Harris","B1 1AA",950.00,NULL
+9,"Bike Ride To The Moon","Sir Brian Andrews","W1 7TR",495.00,NULL
+10,"The Three Brooks","Yvonne Fleetwood","BS32 7ND",250.00,NULL
+11,"The Rhythm Room","Chloe Bennett","BN1 1EE",3000.00,NULL
