@@ -1,1 +1,1 @@
-# saltrock-csvs
+A Database designed in Mongo with a Gui in Java. It is basically a Movie Browsing system where users can Perform CRUD operations on database. They can search movies, add to favorites, and also provide reviews and feedbacks.
